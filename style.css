@@ -1,0 +1,55 @@
+
+.wrapper {
+  background-color:
+}
+#depImg {
+  width: 50%;
+  height: 30%;
+  float: left;
+}
+
+
+.heading {
+  background-color: #754C78;
+  font-size: 8em;
+  align-items: center;
+}
+
+.heading h2 {
+  color: grey;
+}
+
+.top-images h1 {
+  color: grey;
+}
+
+.top-images img{
+  width: 50%;
+  height: 15em;
+  float: left;
+  display: inline-block;
+}
+
+.create-diary-btn button {
+  background-color:#629632;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 35%;
+}
+
+/* hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 5px;
+} */
